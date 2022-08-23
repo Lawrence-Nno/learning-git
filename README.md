@@ -1,3 +1,3 @@
 # Git and Github
 ## This repo was used to learn git from Amigoscode
-![scalable-vector-graphics-computer-icons-portable-network-graphics-encapsulated-postscript-png-favpng-fzGsjxJQSUs8Zj1vjzfpv2y8N_t](https://user-images.githubusercontent.com/108123162/186192906-e56caf95-8202-48b5-a588-22a06a1d83ec.jpg)
+![yellow-crash-test-dummy-yellow-crash-test-dummy-car-seat-116968697](https://user-images.githubusercontent.com/108123162/186192984-79dd73f9-59cb-402a-98a4-8108e14af5b8.jpg)
